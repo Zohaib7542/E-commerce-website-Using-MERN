@@ -5,7 +5,7 @@ Database : MongoDB
 From this website we can buy any item by paying the money.
 
                                       How to Setup & Run this Project
-How to Run Video Tutorial - click here OR
+
 ❖ Install NodeJs ( Ignore If Already Installed)
 1. Visit the official Node.js website i.e)
   https://nodejs.org/en/download/
